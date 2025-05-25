@@ -1,0 +1,12 @@
+path: c:\Innopolis\Zala_Project\rtsd_yolo_without_aug
+train: train/images
+val: val/images
+names:
+  0: Предупреждающие
+  1: Знаки приоритета
+  2: Запрещающие
+  3: Предписывающие
+  4: Особые предписания
+  5: Информационные
+  6: Сервисные
+  7: С доп. информацией
